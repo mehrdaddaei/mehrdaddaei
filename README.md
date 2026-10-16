@@ -23,6 +23,24 @@ My current research interests lie at the intersection of **mathematical cryptogr
 - **Machine Learning:** PyTorch, neural networks, LSTM, GNN
 - **Research Computing:** Mathematical modeling, numerical experiments, statistical analysis, and algorithm implementation
 
+## 🔬 Research Projects
+
+My research focuses on mathematical cryptography, elliptic curves over finite fields, post-quantum cryptography, and quantum randomness analysis.
+
+I aim to share reproducible computational research, mathematical implementations, and documented scientific software as they become available for public release.
+
+## 💻 Programming & Educational Projects
+
+This section includes programming coursework, independent learning projects, and practical software development.
+
+### [CS50P Cryptocurrency Portfolio Tracker](https://github.com/mehrdaddaei/cs50p-crypto-portfolio-tracker)
+
+A Python command-line application for tracking cryptocurrency portfolios using market data APIs and calculating investment performance.
+
+**Focus:** Python, REST APIs, data processing, and software development.
+
+*Educational programming project — not cryptography research.*
+
 ## 🎓 PhD Research Opportunities
 
 I am interested in pursuing a **PhD in mathematical cryptography, post-quantum cryptography, or related areas of computational mathematics**, with particular interest in research groups in Europe and Canada.
